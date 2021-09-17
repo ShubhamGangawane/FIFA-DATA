@@ -11,7 +11,7 @@
 
 - First performing some EDA and Data Cleaning on the dataset for better visualization and analysis perfromance. 
 
-- The dataset is mainly choosen for applying and learning different types of Graphs, Visulization, and Plot styles. 
+- The dataset is mainly chosen for applying and learning different types of Graphs, Visulization, and Plot styles. 
 
 - The Dataset is basically between the players and their statistics of the performance on different playing styles.
 
